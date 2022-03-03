@@ -2,5 +2,5 @@
 
 ## test update
 ```bash
-git clone https://github.com/taufikn10/learn-repo.git
+https://github.com/taufikn10/Sesi-4.git
 ```
